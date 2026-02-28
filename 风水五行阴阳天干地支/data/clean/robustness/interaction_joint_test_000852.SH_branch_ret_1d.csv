@@ -1,0 +1,2 @@
+ts_code,day_group,n_days,wald_stat,df_interaction,p_interaction,hac_maxlags,formula
+000852.SH,branch,3916,53.645228369607246,44,0.15119143131809787,5,ret_1d ~ C(branch) * C(year_element) + C(weekday) + C(month)

@@ -1,0 +1,2 @@
+ts_code,day_group,n_days,wald_stat,df_interaction,p_interaction,hac_maxlags,formula
+000300.SH,ganzhi_day,3916,352.124337300384,236,1.3884502119954302e-06,5,ret_1d ~ C(ganzhi_day) * C(year_element) + C(weekday) + C(month)

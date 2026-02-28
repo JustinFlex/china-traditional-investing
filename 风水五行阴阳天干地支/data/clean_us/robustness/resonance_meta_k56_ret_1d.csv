@@ -1,0 +1,2 @@
+method,n_indices_used,fisher_stat,p_meta_k56,hac_maxlags,ts_codes_used,p_values
+fisher,4,3.326212764982806,0.9122509752323895,5,"spx,ndq,ndx,dji","0.713844,0.553061,0.662595,0.724599"

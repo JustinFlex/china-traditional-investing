@@ -1,0 +1,2 @@
+day_group,k_indices_used,n_pass_p_interaction,min_pass_required,fisher_stat,fisher_df,p_meta_interaction,q_meta_interaction,pass_q,pass_p_count,pass_gate,p_interaction_dji,p_interaction_ndq,p_interaction_ndx,p_interaction_spx
+stem,4,2,3,19.840089550525718,8,0.010958274690054833,0.016437412035082248,True,False,False,0.07617139328082598,0.11716418595091926,0.13007834160148773,0.0423630795787184

@@ -1,0 +1,2 @@
+ts_code,day_group,n_days,wald_stat,df_interaction,p_interaction,hac_maxlags,formula
+dji,stem,4053,48.749911765876504,36,0.07617139328082598,5,ret_1d ~ C(stem) * C(year_element) + C(weekday) + C(month)

@@ -1,0 +1,2 @@
+ts_code,day_group,n_days,wald_stat,df_interaction,p_interaction,hac_maxlags,formula
+ndx,stem,4053,45.648950406288726,36,0.13007834160148773,5,ret_1d ~ C(stem) * C(year_element) + C(weekday) + C(month)

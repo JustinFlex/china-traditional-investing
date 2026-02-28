@@ -1,0 +1,2 @@
+day_group,k_indices_used,n_pass_p_interaction,min_pass_required,fisher_stat,fisher_df,p_meta_interaction,q_meta_interaction,pass_q,pass_p_count,pass_gate,p_interaction_000001.SH,p_interaction_000300.SH,p_interaction_000852.SH,p_interaction_399001.SZ
+ganzhi_day,4,4,3,139.3570187343845,8,3.2283600397741995e-26,9.685080119322598e-26,True,True,True,3.4971654180864084e-07,1.3884502119954302e-06,7.319285046633357e-12,1.5427399550075376e-07

@@ -1,0 +1,2 @@
+ts_code,day_group,n_days,wald_stat,df_interaction,p_interaction,hac_maxlags,formula
+dji,ganzhi_day,4053,328.80152614976515,236,6.0832721299529995e-05,5,ret_1d ~ C(ganzhi_day) * C(year_element) + C(weekday) + C(month)

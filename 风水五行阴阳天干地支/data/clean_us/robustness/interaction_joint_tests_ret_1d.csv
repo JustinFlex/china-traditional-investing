@@ -1,0 +1,13 @@
+ts_code,day_group,n_days,wald_stat,df_interaction,p_interaction,hac_maxlags,formula
+spx,stem,4053,51.84748613568455,36,0.0423630795787184,5,ret_1d ~ C(stem) * C(year_element) + C(weekday) + C(month)
+spx,branch,4053,40.94116490429578,44,0.6034893787797534,5,ret_1d ~ C(branch) * C(year_element) + C(weekday) + C(month)
+spx,ganzhi_day,4053,334.1352708025706,236,2.68309108821359e-05,5,ret_1d ~ C(ganzhi_day) * C(year_element) + C(weekday) + C(month)
+ndq,stem,4054,46.280646670849094,36,0.11716418595091926,5,ret_1d ~ C(stem) * C(year_element) + C(weekday) + C(month)
+ndq,branch,4054,45.88956622030647,44,0.3937692390163237,5,ret_1d ~ C(branch) * C(year_element) + C(weekday) + C(month)
+ndq,ganzhi_day,4054,326.68631058051255,236,8.350332934811448e-05,5,ret_1d ~ C(ganzhi_day) * C(year_element) + C(weekday) + C(month)
+ndx,stem,4053,45.648950406288726,36,0.13007834160148773,5,ret_1d ~ C(stem) * C(year_element) + C(weekday) + C(month)
+ndx,branch,4053,44.10111314098354,44,0.46736315408117585,5,ret_1d ~ C(branch) * C(year_element) + C(weekday) + C(month)
+ndx,ganzhi_day,4053,314.0920769135133,236,0.0005002987025296779,5,ret_1d ~ C(ganzhi_day) * C(year_element) + C(weekday) + C(month)
+dji,stem,4053,48.749911765876504,36,0.07617139328082598,5,ret_1d ~ C(stem) * C(year_element) + C(weekday) + C(month)
+dji,branch,4053,35.35811510342911,44,0.8204767018565845,5,ret_1d ~ C(branch) * C(year_element) + C(weekday) + C(month)
+dji,ganzhi_day,4053,328.80152614976515,236,6.0832721299529995e-05,5,ret_1d ~ C(ganzhi_day) * C(year_element) + C(weekday) + C(month)

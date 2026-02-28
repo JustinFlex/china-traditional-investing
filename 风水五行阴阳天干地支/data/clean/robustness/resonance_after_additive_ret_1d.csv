@@ -1,0 +1,5 @@
+ts_code,n_days,n_min_jiazi,n_med_jiazi,n_max_jiazi,n_missing_jiazi,min_trade_date,max_trade_date,p_wald_k56_resid_additive,wald_stat_k56_resid_additive,df_num_k56,hac_maxlags,formula_additive,formula_resid,q_wald_k56_resid_additive
+000300.SH,3916,61,65,70,0,20100104,20260213,0.9962041899232509,0.17953264928081064,4,5,ret_1d ~ C(stem) + C(branch) + C(weekday) + C(month) + C(year),ret_resid_additive ~ s5 + c5 + s6 + c6,0.9999701498360983
+000852.SH,3916,61,65,70,0,20100104,20260213,0.9993141201768749,0.07500488406558734,4,5,ret_1d ~ C(stem) + C(branch) + C(weekday) + C(month) + C(year),ret_resid_additive ~ s5 + c5 + s6 + c6,0.9999701498360983
+000001.SH,3916,61,65,70,0,20100104,20260213,0.9937031227168295,0.2332984285376259,4,5,ret_1d ~ C(stem) + C(branch) + C(weekday) + C(month) + C(year),ret_resid_additive ~ s5 + c5 + s6 + c6,0.9999701498360983
+399001.SZ,3916,61,65,70,0,20100104,20260213,0.9999701498360983,0.015493139178451184,4,5,ret_1d ~ C(stem) + C(branch) + C(weekday) + C(month) + C(year),ret_resid_additive ~ s5 + c5 + s6 + c6,0.9999701498360983

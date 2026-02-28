@@ -1,0 +1,2 @@
+day_group,k_indices_used,n_pass_p_interaction,min_pass_required,fisher_stat,fisher_df,p_meta_interaction,q_meta_interaction,pass_q,pass_p_count,pass_gate,p_interaction_000001.SH,p_interaction_000300.SH,p_interaction_000852.SH,p_interaction_399001.SZ
+stem,4,0,3,10.00205092797951,8,0.2648819964438676,0.2648819964438676,False,False,False,0.23670815753838984,0.1495636046787787,0.6967458871705079,0.27287809506066557
