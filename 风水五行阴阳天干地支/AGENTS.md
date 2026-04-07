@@ -19,8 +19,7 @@
 
 ## Tushare 安全与网络
 - Token：只从环境变量 `TUSHARE_API_KEY` 或 `.tushare_token`/`~/.tushare_token` 读取；不得提交/打印完整 Token。
-- 代理/端点：遵循 `tushare_api_docs/TUSHARE_CONFIG.md` 的约定（如 `TUSHARE_PROXY` / `TUSHARE_BASE_URL`）。
-- 网络/Whitelist：仅作为“可选的网络排查/配置手册”，不作为本项目运行前置条件；用户本地运行 notebooks 时可不配置 Whitelist/代理。
+- 代理/端点：可通过环境变量 `TUSHARE_PROXY` / `TUSHARE_BASE_URL` 配置；用户本地运行 notebooks 时可不配置代理。
 - 积分：用户现在的tushare积分为5000积分。高频数据，分钟级数据往往无法调用。只能用日频。
 
 ## TODO 维护
